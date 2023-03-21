@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Signifier";
+  src: url(assets/signifier-regular.woff2);
+}
+
+body {
+  margin: 0;
+}
+
+#hero {
+  background-color: #0000ff;
+  height: 100vh;
+}
+
+h1 {
+  color: #fafafa;
+  font-size: 3.5rem;
+  margin: 0 0;
+  font-family: "Signifier", "Times New Roman", Times, serif;
+  font-weight: 400;
+}
