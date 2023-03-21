@@ -4,18 +4,23 @@
 }
 
 body {
-  margin: 0;
-}
-
-#hero {
-  background-color: #0000ff;
-  height: 100vh;
+  font-family: "Neue Haas Grotesk Display Pro", sans-serif;
+  font-weight: 400;
 }
 
 h1 {
   color: #fafafa;
-  font-size: 3.5rem;
-  margin: 0 0;
   font-family: "Signifier", "Times New Roman", Times, serif;
   font-weight: 400;
+}
+
+/* hero section */
+.hero {
+  background-color: #0000ff;
+}
+
+/* navbar */
+.navbar {
+  background-color: transparent;
+  position: fixed;
 }
