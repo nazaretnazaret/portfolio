@@ -24,3 +24,8 @@ h1 {
   background-color: transparent;
   position: fixed;
 }
+
+#nav a {
+  color: #0000ff;
+}
+
